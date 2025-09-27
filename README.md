@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @snplmntn
 - 👀 I’m interested in Creating Web Applications
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Go
